@@ -7,3 +7,5 @@ The board consists of 61 circular spaces arranged in a hexagon, five on a side. 
 A player can push their opponent's marbles (a "sumito") that are in a line to their own with an in-line move only. They can only push if the pushing line has more marbles than the pushed line (three can push one or two; two can push one). Marbles must be pushed to an empty space (i.e. not blocked by a marble) or off the board. The winner is the first player to push six of the opponent's marbles off of the edge of the board.
 
 Play and enjoy!
+
+![Abalone_standard svg](https://github.com/user-attachments/assets/2ee46932-9b0e-43e8-92c9-7ef2dffc3290)
